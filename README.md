@@ -8,3 +8,6 @@ Completed core endpoints for the product's catalog. Ideated and implemented test
 **BURNDOWN CHART**
 A manual track was done for the Github interface as it doesn't contain Burndown Chart Features. The sprint presented a consistent burn-down of 3-4 stories iteratively moving from one component to another before reaching to the Done phase, and closing the milestone.
 A final story was placed in 'In Progress', reflecting Agile's consistent developments
+
+<img width="643" height="236" alt="Screenshot 2025-10-29 at 23 51 50" src="https://github.com/user-attachments/assets/269cca6f-54a0-4219-b8e0-7798c9e3a7fd" />
+
